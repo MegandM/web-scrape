@@ -1,0 +1,9 @@
+# run: conda env create --file web-scraper-environment.yml
+name: web-scraper-env
+dependencies:
+- python=3.8
+- pip
+- pip:
+  - selenium==4.4.0
+  - pandas==1.4.3
+  - pyyaml==6.0

@@ -1,0 +1,5 @@
+webdriver_path: /Users/Marta/Downloads/chromedriver.exe
+nba:
+  website: https://hoopshype.com/salaries/players/
+  xpath_players_name: name
+  xpath_players_salaries: hh-salaries-sorted
